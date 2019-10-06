@@ -3,4 +3,5 @@ create table student
 stuid int(10) primary key,
 stuname char(10),
 stugmail.com varchar(52),
-stucontactno int(12));
+stucontactno int(12)
+stugender char(20));
